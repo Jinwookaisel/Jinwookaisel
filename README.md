@@ -1,3 +1,5 @@
+283231218+Jinwookaisel@users.noreply.github.com
+
 # 🚀 11 Dicas Universais para Estruturar um Repositório Perfeito no GitHub
 
 ## Não importa a stack, linguagem ou framework: seja um sistema web, um aplicativo móvel ou uma ferramenta local. A organização da raiz e a clareza dos arquivos de documentação Markdown (.md) são as regras universais que separam um projeto amador de um repositório de nível sênior.
