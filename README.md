@@ -1,10 +1,14 @@
 283231218+Jinwookaisel@users.noreply.github.com
 
 <img src="https://mauriciospark.github.io/coreIcons/fotos/kalilinux.png" height="45" alt="kalilinux logo"  />
-<p align="center">
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jinwookaisel&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&v=2&locale=pt-br&cache_bust=1" />
-  <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jinwookaisel&layout=compact&theme=highcontrast&hide_langs=html,css&v=2&layout=compact&locale=pt-br" />
-</p>
+
+
+
+ 
+
+![](https://github-readme-stats.shion.dev/api?username=Jinwookaisel&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jinwookaisel&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 # 🚀 11 Dicas Universais para Estruturar um Repositório Perfeito no GitHub
