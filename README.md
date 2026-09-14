@@ -27,6 +27,16 @@
   <img src="https://mauriciospark.github.io/coreIcons/fotos/alloy.png" height="45" alt="alloy logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/altinity.png" height="45" alt="altinity logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/amdrocm.png" height="45" alt="amdrocm logo" />|
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="45" alt="html logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="45" alt="css logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="45" alt="javascript logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/markdown.png" height="45" alt="Markdown logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/json.png" height="45" alt="Json logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/microsoft.png" height="45" alt="Microsoft logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/php.png" height="45" alt="php logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/drawio.png" height="45" alt="drawio logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/brave.png" height="45" alt="brave logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>
 
 ______________
 # 🚀 11 Universal Tips for Structuring a Perfect GitHub Repository
