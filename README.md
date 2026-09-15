@@ -86,3 +86,4 @@ Aqui estão as dicas essenciais que servem para QUALQUER projeto de tecnologia:
 11. Recursos Visuais e Badges: Enriqueça a documentação com capturas de tela do sistema, GIFs demonstrativos e badges de status. Um repositório visualmente organizado retém muito mais atenção.
 > 🛠️ Dica de Ouro: Organização, padronização de cabeçalhos e documentação cirúrgica não são caprichos, são parte do código limpo. Quem bate o olho em um repositório estruturado assim sabe que ali existe engenharia de verdade.
 **Como você costuma organizar as pastas e proteger os arquivos dos seus projetos por aí? Deixe nos comentários! 👇**
+
