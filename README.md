@@ -5,8 +5,12 @@
 <img src="https://mauriciospark.github.io/coreIcons/fotos/github.png" height="45" alt="github logo"/>|
 <img src="https://mauriciospark.github.io/coreIcons/fotos/python.png" height="45" alt="python logo"/>
 
-![](https://github-readme-stats.shion.dev/api?username=Jinwookaisel&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=highcontrast&fontFamily=ABeeZee&preferLogin=true&Points.Commits=2&Points.ContributedToNotOwnerRepositories=1&Points.DirectStars=4&Points.PullRequests=3&Points.CommitsToMyRepositories=2&Points.CommitsToAnotherRepositories=2">    <img  alt="Jinwookaisel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jinwookaisel?cardType=level&theme=highcontrast&fontFamily=ABeeZee&preferLogin=true&Points.Commits=2&Points.ContributedToNotOwnerRepositories=1&Points.DirectStars=4&Points.PullRequests=3&Points.CommitsToMyRepositories=2&Points.CommitsToAnotherRepositories=2" />  </a>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jinwookaisel&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
 
  <img src="https://mauriciospark.github.io/coreIcons/fotos/abc.png" height="45" alt="abc logo" />|
  <img src="https://mauriciospark.github.io/coreIcons/fotos/raku.png" height="45" alt="raku logo" />|
