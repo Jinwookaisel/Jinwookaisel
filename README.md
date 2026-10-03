@@ -21,8 +21,7 @@
   <img src="https://mauriciospark.github.io/coreIcons/fotos/actionscript.png" height="45" alt="actionscript logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/ada.png" height="45" alt="ada logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/adonis.png" height="45" alt="adonis logo" />|
-  <img src="https://mauriciospark.github.io/coreIcons/fotos/advplformatter.png" height="45"
-    alt="advplformatter logo" />|
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/advplformatter.png" height="45" alt="advplformatter logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/advplinclude.png" height="45" alt="advplinclude logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/advplptm.png" height="45" alt="advplptm logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/advpltlpp.png" height="45" alt="advpltlpp logo" />|
@@ -33,6 +32,8 @@
   <img src="https://mauriciospark.github.io/coreIcons/fotos/alloy.png" height="45" alt="alloy logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/altinity.png" height="45" alt="altinity logo" />|
   <img src="https://mauriciospark.github.io/coreIcons/fotos/amdrocm.png" height="45" alt="amdrocm logo" />|
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/bunny.png" height="45" alt="bunny logo" />|
+  <img src="https://mauriciospark.github.io/coreIcons/fotos/stylelint.png" height="45" alt="stylelint logo" />|
 
 ______________
 # 🚀 11 Universal Tips for Structuring a Perfect GitHub Repository
